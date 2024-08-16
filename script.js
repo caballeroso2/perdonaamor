@@ -5,7 +5,7 @@ function respond(answer) {
         responseElement.style.backgroundColor = '#4CAF50';
         responseElement.style.color = '#fff';
     } else {
-        responseElement.textContent = 'Se que le vas a dar a que no, asique el no tambien es un si';
+        responseElement.textContent = 'Se que le vas a dar a que no, asi que el no tambien es un si';
         responseElement.style.backgroundColor = '#4CAF50';
         responseElement.style.color = '#fff';
     }
